@@ -634,6 +634,7 @@ call extend(s:glyphs, {
   \   'Mfx': '𝔵',
   \   'Mfy': '𝔶',
   \   'Mfz': '𝔷',
+  \   'breve': '˘',
   \})
 
 
