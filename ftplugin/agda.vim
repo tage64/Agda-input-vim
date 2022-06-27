@@ -73,6 +73,7 @@ call extend(s:glyphs, {
   \   'all': '∀',
   \   'always': '□',
   \   'approx': '≈',
+  \   'napprox': '≉',
   \   'bot': '⊥',
   \   'box': '□',
   \   'boxdot': '⊡',
